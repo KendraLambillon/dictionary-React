@@ -25,9 +25,14 @@ export default function Dictionary() {
 
     return (
         <div className="Dictionary">
-            <form onSubmit={search}>
-                <input type="search" onChange={handleKeywordChange} />
-            </form>
+            <div class="col-6">
+                <form onSubmit={search}>
+                    <div class="input-group rounded input-group-lg mb-3 shadow-lg">
+                        <span class="input-group-text" id="inputGroup-sizing-default">Searching for word</span>
+                        <input type="search" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" onChange={handleKeywordChange} />
+                    </div>
+                </form>
+            </div>
             <Results results={results} />
         </div>
     );
