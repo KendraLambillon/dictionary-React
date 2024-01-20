@@ -13,7 +13,7 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by <a href="http://www.linkedin.com/in/kendra-lambillon/" >Kendra Lambillon</a> with the <a href="https://github.com/KendraLambillon/dictionary-React" >Open-sourced on Github</a> and <a href="https://rococo-sable-51a915.netlify.app" >hosted on Netlify</a>.</small>
+          <small>Coded by <a href="http://www.linkedin.com/in/kendra-lambillon/" >Kendra Lambillon</a> with the <a href="https://github.com/KendraLambillon/dictionary-React" >Open-sourced on Github</a> and <a href="https://dazzling-granita-4b5c7e.netlify.app" >hosted on Netlify</a>.</small>
         </footer>
       </div>
     </div>
