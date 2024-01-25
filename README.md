@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+I am building a Dictionary app with a search engine, which should display word definitions.
+This project is hosted on Netlify: https://dazzling-granita-4b5c7e.netlify.app
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
